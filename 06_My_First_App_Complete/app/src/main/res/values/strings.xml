@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My First App</string>
+    <string name="toast">Toast</string>
+    <string name="count">Count</string>
+    <string name="random">Random</string>
+    <string name="starting_count">0</string>
+    <string name="hello_toast">Hello Toast!</string>
+    <string name="random_label_text">Here is a random integer between 0 and %1d</string>
+    <string name="intent_extra_not_found">Intent Extra not found</string>
+</resources>
